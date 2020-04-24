@@ -27,7 +27,7 @@ Oraz referencyjną wersję kalkulatora IP z wykorzystaniem excel
 3. [Sieć, komunikacja klient - serwer](03-cwiczenia/ip-command.md)
 4. [Tablice routingu](04-cwiczenia/ip-route.md)
 5. [Adresacja IP](05/../05-cwiczenia/adresacja.md)
-6. [Sieć, podsieć, nadsieć]
+6. [Sieć, podsieć, nadsieć](06-cwiczenia)
 7. [NAT, dhcp]
 8. [dhcp, dns]
 9. [Analiza ruchu sieciowego - wireshark]
