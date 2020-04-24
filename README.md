@@ -22,7 +22,7 @@ Oraz referencyjną wersję kalkulatora IP z wykorzystaniem excel
 
 ## Zagadnienia
 
-1. [System operacyjny w środowisku sieciowym](01 - cwiczenia/system-operacyjny.md)
+1. [System operacyjny w środowisku sieciowym](01-cwiczenia/system-operacyjny.md)
 2. [Ustawianie parametrów sieci](02-cwiczenia/network-properties.md)
 3. [Sieć, komunikacja klient - serwer](03-cwiczenia/ip-command.md)
 4. [Tablice routingu](04-cwiczenia/ip-route.md)
