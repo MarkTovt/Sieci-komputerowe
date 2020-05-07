@@ -66,3 +66,8 @@ Zadanie do domu
    Centrum Informatyki dysponje adresem CIDR ``149.156.48.0/22`` część z tej przestrzeni zatrzymuje na potrzeby własnych potrzeb, pozostałą część oddaje innym jednostkom
 
   ![zadanie 6](campus-network.svg)
+  
+  
+Rozwiązanie
+---------------
+(SchematCI.png)
