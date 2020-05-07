@@ -70,4 +70,4 @@ Zadanie do domu
   
 Rozwiązanie
 ---------------
-(SchematCI.png)
+![zadanie 6](SchematCI.png)
