@@ -27,4 +27,4 @@ Projekt sieci spełnił oczekiwania, organizacja po uwzględnieniu nowych wymog�
  
  ## Rozwiązanie
  
- ![zadanie-2](Zadanie-2.pkt)
+ ![zadanie-2](Zadanie-02.pkt)
