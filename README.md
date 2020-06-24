@@ -28,9 +28,10 @@ Oraz referencyjną wersję kalkulatora IP z wykorzystaniem excel
 4. [Tablice routingu](04-cwiczenia/ip-route.md)
 5. [Adresacja IP](05-cwiczenia/adresacja.md)
 6. [Sieć, podsieć, nadsieć](06-cwiczenia/ip-podsiec-nadsiec.md)
-7. [NAT, dhcp](07-cwiczenia/dhcp.md)
-8. [dhcp, dns]
-9. [Analiza ruchu sieciowego - wireshark]
+7. [DHCP](07-cwiczenia/dhcp.md)
+8. [NAT](08-cwiczenia/nat.md)
+9. [DNS](09-cwiczenia/dhcp-dns.md)
+10. [Analiza ruchu sieciowego - wireshark](10-cwiczenia/wireshark.md)
     * TCP
     * UDP
-10. [Firewall - iptables]
+11. [Firewall - iptables](11-cwiczenia/firewall.md)
